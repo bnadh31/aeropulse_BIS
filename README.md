@@ -1,4 +1,4 @@
-# Aero Pulse BIS : Türkiye'deki havayollarının verilerini görselleştiren sistem
+# Aero Pulse BIS : Türkiye'deki havayollarının verilerini görselleştiren sistem(yapay veri ile)
 --TR--
 
 Projemizin temel amacı uçak biletleri ve uçak içerisindeki sistemler ile alakalı bir veri tabanının bilgi sistemine dönüştürülmesidir.
