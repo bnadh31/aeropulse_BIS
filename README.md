@@ -37,5 +37,5 @@ Some screenshots of our information system:
 
 Creators:
 
-Gökhan Yargın
+Gökhan Yargın<br>
 Cenk Barış Abağa
